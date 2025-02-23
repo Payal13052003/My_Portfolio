@@ -10,7 +10,7 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://pawantech12.github.io/portfolio-website/"><strong>➥ Live Demo</strong></a>
+  <a href="My portfolio"><strong>➥ Live Demo</strong></a>
 
 </div>
 
